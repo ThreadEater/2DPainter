@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/1.png</file>
+        <file>images/ellipse.png</file>
+        <file>images/line.png</file>
+        <file>images/lines.png</file>
+        <file>images/open.png</file>
+        <file>images/rect.png</file>
+        <file>images/save.png</file>
+        <file>images/saveas.png</file>
+        <file>images/texts.png</file>
+        <file>images/clear.png</file>
+        <file>images/export.png</file>
+        <file>images/import.png</file>
+        <file>images/start.gif</file>
+        <file>images/edit.png</file>
+        <file>images/paint.png</file>
+    </qresource>
+</RCC>
